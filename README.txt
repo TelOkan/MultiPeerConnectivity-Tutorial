@@ -6,3 +6,5 @@ Two thing is very important.
 For example;
 ServiceType: mytype
 Bonjour Services İtem: _mytype._tcp (Because bonjour services item requires underscore)
+
+
